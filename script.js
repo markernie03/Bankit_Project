@@ -1,5 +1,8 @@
 'use strict';
 
+alert("Hello!");
+alert("Try to Login User and Pin is already in code so find it 😂")
+
 // BANKIT APP
 
 /////////////////////////////////////////////////
