@@ -1,7 +1,8 @@
 'use strict';
 
-alert("Hello!");
-alert("Try to Login User and Pin is already in code so find it 😂")
+// list of user and pin
+// [ me, 1111, mg, 2222, ms, 3333, cm, 4444]
+// try to play loan and send money to existing account
 
 // BANKIT APP
 
